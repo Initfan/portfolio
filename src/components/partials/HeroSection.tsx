@@ -14,7 +14,11 @@ const HeroSection = () => {
         <div className="overflow-hidden rounded-full">
           <Image src="/images/avatar/man.png" width={180} height={180} alt="avatar" />
         </div>
+<<<<<<< HEAD
         <h1 className="mt-4 text-3xl font-bold ">Muhamad Irfan Rifani</h1>
+=======
+        <h1 className="mt-4 text-3xl font-bold ">Mostafizur Rahman</h1>
+>>>>>>> 8d5423322b37759ad75ab1a3145194452e0b8396
         <div className="mt-2 flex gap-1">
           {' '}
           I'm a{' '}

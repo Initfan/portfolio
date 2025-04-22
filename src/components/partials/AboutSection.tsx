@@ -13,7 +13,11 @@ const AboutSection = () => {
         {/* Bio */}
         <div className="">
           <p className="text-justify">
+<<<<<<< HEAD
             Hi, I am Muhamad Irfan Rifani, I am a fullstack developer. I work from Tangerang, Indonesia. I have rich
+=======
+            Hi, I am Md Mostafizur Rahman, I am a fullstack developer. I work from Dhaka, Bangladesh. I have rich
+>>>>>>> 8d5423322b37759ad75ab1a3145194452e0b8396
             experience in building, designing & customizing website, web apps, mobile apps etc.
           </p>
           <Button className="mt-5">Download CV</Button>
