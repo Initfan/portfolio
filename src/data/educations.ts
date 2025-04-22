@@ -2,11 +2,7 @@ import { Education } from '@/types';
 
 export const educations: Education[] = [
   {
-<<<<<<< HEAD
     degree: 'Bachelor of ',
-=======
-    degree: 'Bachelor of Science',
->>>>>>> 8d5423322b37759ad75ab1a3145194452e0b8396
     school: 'University of California',
     startDate: 'Jan 2017',
     endDate: 'Dec 2018',
